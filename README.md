@@ -4,7 +4,7 @@ Bank Kata is a Python project sent by Claranet as an interview step process.
 
 This project was developed using Python 3.9.6
 
-You can find the full spec in the "Bank Kata.pdf" file, in the root of the project, or by clicking here: 
+You can find the full spec in the "Bank Kata.pdf" file, in the root of the project, or by clicking here: [Bank_Kata.pdf](https://github.com/Jeholanda/Bank_Kata/files/7359653/Bank_Kata.pdf)
 
 The problem has 4 Users Stories, so you will find 4 subfolders for each user story.<br>
 Each folder has: the main code, another subfolder with test codes, test cases and test outputs.
