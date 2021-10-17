@@ -43,3 +43,8 @@ def read_accounts(file: str):
 
     except FileNotFoundError:
         return f'File "{file}" not found.'
+
+
+if __name__ == '__main__':
+    print(read_accounts('tests/files/test_cases.txt'))
+    
