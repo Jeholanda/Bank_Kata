@@ -103,3 +103,9 @@ def find_illegible_account(account):
         return f'{accounts[0]}'
     else:
         return f'{account} ILL'
+
+
+if __name__ == '__main__':
+    print(read_accounts('tests/files/test_cases.txt'))
+    print(read_accounts('tests/files/ill_test_cases.txt'))
+    
