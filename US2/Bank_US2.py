@@ -54,3 +54,8 @@ def checksum(account):
     if sum(chk) % 11 == 0:
         return True
     return False
+
+
+if __name__ == '__main__':
+    print(read_accounts('tests/files/test_cases.txt'))
+    
